@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Flutter+Mobile+Developer;Problem+Solver;Always+Learning+New+Things)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Flutter+Mobile+Developer;Problem+Solver;Always+Learning+New+Things;Mobile+App+Developer)](https://git.io/typing-svg)
   
 </div>
 
@@ -10,12 +10,12 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Flutter Mobile Developer** who loves building beautiful, functional mobile applications. Currently based in Cairo, Egypt, I'm dedicated to creating innovative solutions and contributing to the open-source community.
+I'm a passionate **Flutter Mobile Developer** who loves building beautiful, functional mobile applications. Currently based in Cairo, Egypt, I'm dedicated to creating innovative solutions and developing high-quality mobile experiences.
 
 - 🔭 **Currently working on:** [AI Chatbot Project](https://github.com/Mohamed-Emad1/chatbot) - Building an intelligent conversational AI
-- 🌱 **Currently learning:** Google Maps integration with Flutter & Flutter animations
-- 🤝 **Looking to collaborate on:** Open source Flutter projects and mobile app development
-- 💬 **Ask me about:** Flutter, Dart, Mobile Development
+- 🌱 **Currently learning:** Google Maps integration with Flutter & Advanced Flutter animations
+- 🤝 **Looking to collaborate on:** Flutter projects and mobile app development
+- 💬 **Ask me about:** Flutter, Dart, Mobile Development, UI/UX Design
 - ⚡ **Fun fact:** I love solving algorithmic challenges on LeetCode in my free time!
 
 ---
@@ -59,8 +59,51 @@ I'm a passionate **Flutter Mobile Developer** who loves building beautiful, func
 
 ## 🏆 Featured Projects
 
+### 🎓 **Graduation Project - Audio Processing Platform**
+A comprehensive web and mobile platform for deepfake audio detection and voice conversion, built with advanced Flutter architecture and real-time audio processing capabilities.
+
+**Key Features:**
+- 🎙️ **Speech-to-Speech Conversion:** Real-time voice transformation with multiple character voices
+- 🔴 **Live Audio Recording:** Seamless audio capture and processing
+- 🛡️ **Deepfake Detection:** AI-powered audio authenticity verification
+- 🎭 **Voice Cloning:** Advanced tone-cloning technology
+
+**Architecture & Technologies:**
+- 🏗️ **Clean Architecture:** Scalable, maintainable code structure
+- 🌐 **Localization:** Multi-language support for global accessibility  
+- 💉 **Dependency Injection:** Efficient state management and modularity
+- 🔌 **REST API Integration:** Seamless backend communication
+- 📱 **Responsive Design:** Optimized for various screen sizes
+
+**Tech Stack:** `Flutter` `Dart` `Clean Architecture` `REST API` `Audio Processing` `AI/ML`
+
+---
+
+### 🕌 **Muslim App**
+A comprehensive Islamic mobile application designed to help Muslims in their daily spiritual practices with beautiful, user-friendly interfaces and reliable functionality.
+
+**Key Features:**
+- 🕐 **Prayer Times:** Accurate prayer schedules based on location
+- 📖 **Quran Reading:** Complete Quran with smooth scrolling
+- 📿 **Digital Tasbeeh:** Interactive counter for dhikr
+- 📚 **Hadith Collection:** Authentic Hadith references integrated through RESTful APIs
+
+**Technical Implementation:**
+- 📱 **Responsive Design:** Optimized for various screen sizes and orientations
+- 🌐 **RESTful API Integration:** Seamless data fetching for Islamic content
+- 🔄 **Real-time Updates:** Dynamic prayer times based on user location
+- 💾 **Local Storage:** Hive database for fast, offline data persistence
+
+**Tech Stack:** `Flutter` `Dart` `REST API` `Islamic APIs` `Location Services`
+
+---
+
 ### 🤖 [AI Chatbot](https://github.com/Mohamed-Emad1/chatbot)
-An intelligent conversational AI built with modern technologies, featuring natural language processing and responsive design.
+An intelligent conversational AI built with modern technologies, featuring natural language processing.
+
+**Key Features:**
+- ✅ **Task Management:** Create, delete, and mark tasks as complete
+- 💾 **Local Storage:** Hive database for fast, offline data persistence
 
 **Tech Stack:** `Flutter` `Dart` `AI/ML` `Firebase`
 
@@ -69,8 +112,8 @@ An intelligent conversational AI built with modern technologies, featuring natur
 ## 🎯 Current Focus
 
 - 🗺️ **Google Maps Integration:** Mastering location-based services in Flutter applications
-- 🎨 **Advanced Animations:** Creating smooth, engaging user experiences
-- 🤝 **Open Source:** Contributing to Flutter community projects
+- 🎨 **Animations:** Creating smooth, engaging user experiences
+- 🤝 **Mobile Development:** Building innovative Flutter applications
 - 📱 **Cross-platform Development:** Building apps that work seamlessly across platforms
 
 ---
@@ -95,15 +138,6 @@ Want to know more about my professional experience?
 📋 **[Download My Resume](https://mega.nz/file/nVIxQYoA#cLgaOuL2_W1jgABJooWdohXcnYTpWX35Ap_QkTHlJt8)**
 
 ---
-
-## 💡 Open Source Contributions
-
-I believe in the power of community-driven development. Here's how I contribute:
-
-- 🐛 **Bug Reports:** Helping identify and resolve issues in open-source projects
-- 🔧 **Feature Development:** Adding new functionality to existing projects
-- 📚 **Documentation:** Improving project documentation for better developer experience
-- 🎓 **Mentoring:** Helping newcomers get started with Flutter development
 
 ---
 
