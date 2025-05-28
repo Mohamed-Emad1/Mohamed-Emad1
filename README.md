@@ -1,2 +1,118 @@
-<h1 align="center">Hi 👋, I'm Mohamed Emad</h1><h3 align="center">A passionate about Flutter Mobile Development.</h3>- 🔭 I’m currently working on [chatbot](https://github.com/Mohamed-Emad1/chatbot)- 🌱 I’m currently learning Google Maps with flutter- 🤝 I’m looking for help with open source projects- 📄 Know about my experiences [https://mega.nz/file/nVIxQYoA#cLgaOuL2_W1jgABJooWdohXcnYTpWX35Ap_QkTHlJt8](https://mega.nz/file/nVIxQYoA#cLgaOuL2_W1jgABJooWdohXcnYTpWX35Ap_QkTHlJt8)<h3 align="left">Connect with me:</h3><p align="left"><a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-emad-b048b4194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-emad-b048b4194/" height="30" width="40" /></a><a href="https://fb.com/https://www.facebook.com/mohamed.emad.280837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohamed.emad.280837" height="30" width="40" /></a><a href="https://www.leetcode.com/https://leetcode.com/u/mo_emad12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mo_emad12/" height="30" width="40" /></a></p><h3 align="left">Languages and Tools:</h3><p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-emad1&show_icons=true&locale=en&layout=compact" alt="mohamed-emad1" /></p>
+# Hi there! 👋 I'm Mohamed Emad
 
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Flutter+Mobile+Developer;Problem+Solver;Always+Learning+New+Things)](https://git.io/typing-svg)
+  
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a passionate **Flutter Mobile Developer** who loves building beautiful, functional mobile applications. Currently based in Cairo, Egypt, I'm dedicated to creating innovative solutions and contributing to the open-source community.
+
+- 🔭 **Currently working on:** [AI Chatbot Project](https://github.com/Mohamed-Emad1/chatbot) - Building an intelligent conversational AI
+- 🌱 **Currently learning:** Google Maps integration with Flutter & Flutter animations
+- 🤝 **Looking to collaborate on:** Open source Flutter projects and mobile app development
+- 💬 **Ask me about:** Flutter, Dart, Mobile Development
+- ⚡ **Fun fact:** I love solving algorithmic challenges on LeetCode in my free time!
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### **Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+### **Web Development**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### **Design & Tools**
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-emad1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-emad1&layout=compact&langs_count=8&theme=tokyonight"/>
+  
+</div>
+
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=mohamed-emad1&theme=tokyonight)](https://git.io/streak-stats)
+  
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+### 🤖 [AI Chatbot](https://github.com/Mohamed-Emad1/chatbot)
+An intelligent conversational AI built with modern technologies, featuring natural language processing and responsive design.
+
+**Tech Stack:** `Flutter` `Dart` `AI/ML` `Firebase`
+
+---
+
+## 🎯 Current Focus
+
+- 🗺️ **Google Maps Integration:** Mastering location-based services in Flutter applications
+- 🎨 **Advanced Animations:** Creating smooth, engaging user experiences
+- 🤝 **Open Source:** Contributing to Flutter community projects
+- 📱 **Cross-platform Development:** Building apps that work seamlessly across platforms
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-emad-b048b4194/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/mohamed.emad.280837)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/mo_emad12/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+</div>
+
+---
+
+## 📄 Resume & Portfolio
+
+Want to know more about my professional experience? 
+
+📋 **[Download My Resume](https://mega.nz/file/nVIxQYoA#cLgaOuL2_W1jgABJooWdohXcnYTpWX35Ap_QkTHlJt8)**
+
+---
+
+## 💡 Open Source Contributions
+
+I believe in the power of community-driven development. Here's how I contribute:
+
+- 🐛 **Bug Reports:** Helping identify and resolve issues in open-source projects
+- 🔧 **Feature Development:** Adding new functionality to existing projects
+- 📚 **Documentation:** Improving project documentation for better developer experience
+- 🎓 **Mentoring:** Helping newcomers get started with Flutter development
+
+---
+
+<div align="center">
+  
+### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+**Thanks for visiting my profile! Let's build something amazing together! 🚀**
+
+![Profile Views](https://komarev.com/ghpvc/?username=mohamed-emad1&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
