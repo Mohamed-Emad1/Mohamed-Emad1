@@ -104,7 +104,7 @@ A full-featured e-commerce mobile app with secure payment integration and modern
 
 🛠️ Tech Stack
 
-
+---
 ### 🕌 **Muslim App**
 A comprehensive Islamic mobile application designed to help Muslims in their daily spiritual practices with beautiful, user-friendly interfaces and reliable functionality.
 
