@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Flutter Mobile Developer** who loves building beautiful, functional mobile applications. Currently based in Cairo, Egypt, I'm dedicated to creating innovative solutions and developing high-quality mobile experiences.
+I'm a passionate **Flutter Mobile Developer** who loves building beautiful, functional mobile applications.I'm dedicated to creating innovative solutions and developing high-quality mobile experiences.
 
 - 🔭 **Currently working on:** [AI Chatbot Project](https://github.com/Mohamed-Emad1/chatbot) - Building an intelligent conversational AI
 - 🌱 **Currently learning:** Google Maps integration with Flutter & Advanced Flutter animations
@@ -78,6 +78,32 @@ A comprehensive web and mobile platform for deepfake audio detection and voice c
 **Tech Stack:** `Flutter` `Dart` `Clean Architecture` `REST API` `Audio Processing` `AI/ML`
 
 ---
+### 🛒 E-Commerce Mobile Application
+
+A full-featured e-commerce mobile app with secure payment integration and modern state management, delivering seamless shopping experiences across platforms.
+
+**✨ Key Features**
+
+- 💳 **Multi-Payment Gateway Integration** - Secure checkout with Stripe, Paymob, and PayPal
+🔐 **Firebase Authentication** - Robust user authentication and authorization
+☁️ **Cloud Storage** - Efficient media management with Firebase Cloud Storage
+🌍 **Multi-Currency Support** - International payment processing
+🎨 **Theme Customization** - Dark mode and responsive UI for enhanced UX
+
+🏗️ **Architecture & Technologies**
+
+**Cubit State Management** - Predictable and efficient state handling
+**Localization** - Multi-language support for global reach
+**Dependency Injection** - Modular and testable code architecture
+**Firebase Suite** - Authentication, Firestore database, and Cloud Storage
+**7+ Screens **- Complete shopping flow from browse to checkout
+
+📊 Impact
+
+40% increase in user engagement through optimized UI/UX and localization
+
+🛠️ Tech Stack
+
 
 ### 🕌 **Muslim App**
 A comprehensive Islamic mobile application designed to help Muslims in their daily spiritual practices with beautiful, user-friendly interfaces and reliable functionality.
